@@ -8,6 +8,11 @@ This application is designed to make your life as organizer of speed friending o
 Install the application dependencies using pip:
 ```bash
 sudo pip install -r requirements.txt
+
+AND
+
+sudo apt-get install graphviz evtl
+OR yum install graphviz evtl
 ```
 
 ## How to use it
